@@ -1,0 +1,1 @@
+I started to work with Colab for running pyMC3 models on a GPU. In this repoisory i share some notebooks to make it possible to run pyMC3 with GPU in colab and, furthermore, to get to know pyMC3. I hope you enjoy it.
